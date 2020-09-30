@@ -1,0 +1,22 @@
+arithmetic operator
+
+    +, -, *, /, %, **
+
+    // floor division
+
+
+relational operator
+    >, >=, <, <=, ==, !=
+
+
+logical operators
+    and, or, not
+
+membership test operator  *
+    in, not in
+
+lambda operator *
+    - lambda function (passwd as argument )
+        - more than a statement
+
+

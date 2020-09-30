@@ -1,0 +1,7 @@
+{
+d1: {
+        f1: [size, mtime],
+        f2: [size, mtime],
+        f3: [size, mtime],...
+    }, .....
+}

@@ -1,0 +1,14 @@
+regexp
+~~~~~~
+    i. pattern matching
+    ii. find & replacement
+    iii. split
+
+
+characteristics
+    a. case sensitive
+    b. match only once in a line
+    c. match for the sub string
+    d. greedy in nature  
+
+    'sun'  -> 'sunflower'

@@ -1,0 +1,14 @@
+datatype
+
+    simple / scalar
+        - strings
+        - numeric  {int, float}
+        - booleans
+        - nonetype (NULL, void)
+
+
+    collections
+        - list aka array
+        - tuple - readonly list
+        - dict aka map, hash-map, haSH  (key => value)
+        - set

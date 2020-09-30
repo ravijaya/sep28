@@ -1,0 +1,20 @@
+
+
+    logger   (log's the message)
+
+        a. where to log?   (Handler)
+        b. what to log?   (Formatter)
+
+
+
+        logger   (log's) root-loggerch
+
+            ^
+            |
+
+            handler  (where to log?)
+
+              ^
+              |
+
+              formatter (what to log?)
